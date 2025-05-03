@@ -66,6 +66,61 @@ Let’s connect and build something great together!
 
 📧 **Email:** [adammelrhadir@gmail.com](mailto:adammelrhadir@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/adamm-el-rhadir-25a841358](https://linkedin.com/in/adamm-el-rhadir-25a841358)  
+# Hi, I'm Adam El Rhadir 👋
+
+I'm a passionate **software engineer** from Morocco with a mission:  
+➡️ Build impactful technology  
+➡️ Launch my own tech company  
+➡️ Help the community through smart, accessible solutions
+
+---
+
+### 💡 About Me
+- 💻 Junior software engineer focused on solving real-world problems with code
+- 🎯 Currently working on projects that improve efficiency in public services (like insurance ticketing in Morocco)
+- 📚 Lifelong learner, always exploring new technologies and frameworks
+- 🌱 Aspiring entrepreneur with a deep interest in using tech for social good
+
+---
+
+### 🚀 Projects
+
+Here are a few highlights from my portfolio:
+
+- **🧾 Insurance Ticketing System**  
+  A project that simplifies how insurance clients book and manage service appointments in Morocco.  
+  `Python | Backend | Process Optimization`  
+  [GitHub Repo](#) | [Live Demo](#)
+
+- **🌐 Personal Portfolio Website**  
+  A sleek, responsive site to showcase my work and vision as a developer.  
+  `HTML | Tailwind CSS | GitHub Pages`  
+  [GitHub Repo](#) | [Live Site](#)
+
+- **💬 AI Chatbot for FAQs**  
+  A simple AI-powered assistant that automates responses to frequent questions.  
+  `Python | NLP | Flask`  
+  [GitHub Repo](#)
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to new connections, collaborations, and conversations.
+
+- 🌐 [LinkedIn](https://linkedin.com/in/your-link)
+- 🐦 [Twitter](https://twitter.com/your-handle)
+- 📧 Email: your.email@example.com
+
+---
+
+### 🛠️ Tech Stack
+`Python` `HTML` `CSS` `JavaScript` `Git` `GitHub` `Linux CLI` `VS Code`  
+
+---
+
+> “Code with purpose. Build with passion. Grow with impact.”  
+
 💼 **GitHub:** *Coming soon*  
 🌐 **Personal Website:** *Under development*
 
